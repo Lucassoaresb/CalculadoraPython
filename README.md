@@ -1,4 +1,4 @@
-# CalculadoraPython
+# Calculadora Simples Em Python
 
 Culculadora básica em python
 
