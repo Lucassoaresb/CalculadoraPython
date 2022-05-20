@@ -12,6 +12,6 @@ multiplicação
 
 divisão
 
-Módulo
+Resto Da Divisão
 
 Exponenciação
